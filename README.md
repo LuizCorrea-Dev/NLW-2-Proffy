@@ -3,14 +3,7 @@
 
  <b>A sua plataforma de estudos online </b> 👨🏾‍🏫 👨🏾‍🎓
 </h4>
-<p align="center">
-  <img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/ialexanderbrito/proffy?style=flat-square" />
-  <img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/ialexanderbrito/proffy?style=flat-square" />
-  <img alt="" src="https://img.shields.io/github/repo-size/ialexanderbrito/proffy?style=flat-square" />
-  <img alt="GitHub Issues" src="https://img.shields.io/github/issues/ialexanderbrito/proffy?style=flat-square" />
-  <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/ialexanderbrito/proffy?style=flat-square" />
-    
-  <a href="https://rocketseat.com.br">
+    <a href="https://rocketseat.com.br">
     <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-blueviolet?style=flat-square"></a>
     <img alt="License" src="https://img.shields.io/badge/license-MIT-blueviolet?style=flat-square">
 </p>
@@ -84,7 +77,7 @@ E também será preciso um editor, eu indico o <b>[VSCode](https://code.visualst
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/ialexanderbrito/proffy
+$ git clone https://github.com/LuizCorrea-Dev/NLW-2-Proffy
 
 # Acesse a pasta do projeto no terminal/cmd
 $ cd proffy
@@ -109,7 +102,7 @@ $ npm knex:migrate ou yarn knex:migrate
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/ialexanderbrito/proffy
+$ git clone https://github.com/LuizCorrea-Dev/NLW-2-Proffy
 
 # Acesse a pasta do projeto no seu terminal/cmd
 $ cd proffy
@@ -130,7 +123,7 @@ $ npm start ou yarn start
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/ialexanderbrito/proffy
+$ git clone https://github.com/LuizCorrea-Dev/NLW-2-Proffy
 
 # Acesse a pasta do projeto no seu terminal/cmd
 $ cd proffy
