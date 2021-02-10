@@ -58,7 +58,7 @@ Extras:
 
 ### 💻 Projeto
 
-<b>Proffy</b> é uma plataforma de estudos onlines para alunos encontrarem professores de diversas matérias para focar nos estudos de forma online.
+<b>Proffy</b> é uma plataforma de estudos online encontrar professores de diversas matérias e marcar aulas online.
 
 ### ⚙ Como rodar este projeto
 
