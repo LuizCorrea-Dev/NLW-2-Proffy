@@ -164,3 +164,31 @@ A Next Level Week foi ministrada pelo [Diego Fernandes](https://github.com/diego
 ### :memo: Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+## Social
+
+Me acompanhe nas minhas redes sociais.
+
+<p align="center">
+  
+ <a href="https://twitter.com/luizBCorrea" target="_blank" > 
+     <img alt="Twitter" src="https://img.shields.io/badge/-Twitter-9cf?style=flat-square&logo=Twitter&logoColor=white"></a>
+     
+  
+  <a href="https://www.linkedin.com/in/luizbatistacorrea/" target="_blank" >
+    <img alt="Linkedin" src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white"></a>
+    
+    
+  <a href="https://t.me/LuizBCorrea" target="_blank" >
+    <img alt="Telegram" src="https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white"></a>
+    
+  
+  <a href="mailto:correa.luizbatista@gmail.com" target="_blank" >
+    <img alt="Email" src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white"></a>
+    
+    
+   <a href="https://api.whatsapp.com/send?phone=5511971275991&text=I%20have%20an%20opportunity" target="_blank" >
+    <img alt="WhatsApp" src="https://img.shields.io/badge/-whatsapp-success?style=flat-square&logo=Whatsapp&logoColor=white"></a>
+    
+</p>
+
