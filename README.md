@@ -1,7 +1,7 @@
 <h4 align="center">
 <img src=".github/Proffy.png" width="250px" /><br>
 
- <b>A sua plataforma de estudos online </b> 👨🏾‍🏫 👨🏾‍🎓
+ <b>A sua plataforma de estudos online </b>
 </h4>
     <a href="https://rocketseat.com.br">
     <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-blueviolet?style=flat-square"></a>
