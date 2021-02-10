@@ -54,7 +54,7 @@ Extras:
 
 ### 📱 App
 
-[Android](https://expo.io/@ialexanderbrito/projects/proffy)
+[Android](https://expo.io/@luizcorrea/projects/proffy)
 
 ### 💻 Projeto
 
@@ -164,30 +164,3 @@ A Next Level Week foi ministrada pelo [Diego Fernandes](https://github.com/diego
 ### :memo: Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
-### 📱 Social
-
-Me acompanhe nas minhas redes sociais.
-
-<p align="center">
-  
- <a href="https://twitter.com/ialexanderbrito" target="_blank" > 
-     <img alt="Twitter" src="https://img.shields.io/badge/-Twitter-9cf?style=flat-square&logo=Twitter&logoColor=white"></a> 
-  
-  <a href="https://instagram.com/ialexanderbrito" target="_blank" >
-    <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-ff2b8e?style=flat-square&logo=Instagram&logoColor=white"></a> 
-
-  <a href="https://www.linkedin.com/in/ialexanderbrito/" target="_blank" >
-    <img alt="Linkedin" src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white"></a>
-    
-  <a href="https://t.me/ialexanderbrito" target="_blank" >
-    <img alt="Telegram" src="https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white"></a>
-  
-  <a href="mailto:ialexanderbrito@gmail.com" target="_blank" >
-    <img alt="Email" src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white"></a>
-    
-</p>
-
----
-
-Feito com ❤️ by **Alexander** 🤙🏾
